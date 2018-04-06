@@ -304,6 +304,12 @@ PRODUCT_PACKAGES += \
     WifiSM6225 \
     NotchBarKiller
 
+DEVICE_PACKAGE_OVERLAYS += \
+    $(LOCAL_PATH)/overlay
+
+PRODUCT_PACKAGES += \
+    SettingsOverlaysm6225-common
+
 # Parts
 PRODUCT_PACKAGES += \
     XiaomiParts
