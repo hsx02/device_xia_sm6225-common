@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License>
+     you may not use this file except in compliance with the Lice>
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, s>
+     distributed under the License is distributed on an "AS IS" B>
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express>
+     See the License for the specific language governing permissi>
+     limitations under the License.
+-->
+<!-- These resources are around just to allow their values to be >
+     for different hardware and product builds.  Do not translate>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<item>"/system_ext/priv-app/MotoDolbyDax3/MotoDolbyDax3.apk"</ite>
+<item>"/system_ext/priv-app/daxService/daxService.apk"</item>
+</resources>
